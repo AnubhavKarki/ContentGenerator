@@ -151,7 +151,7 @@ AI ethics: Digital gods without moral compasses. Time to code conscience.
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file.
+MIT License
 
 ## Acknowledgments
 
